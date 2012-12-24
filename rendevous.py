@@ -1,4 +1,3 @@
-# Andrew C. Bodine & Daniel S. Lavine
 # UDP Hole Punching Rendevous Server
 
 # Import(s)

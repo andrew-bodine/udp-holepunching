@@ -1,6 +1,4 @@
-# Andrew C. Bodine & Daniel S. Lavine
-# CS 455 - Computer Networks
-# Project - UDP Hole Punching
+# punch.py #
 
 # Import(s)
 import sys, socket, json, threading, time
